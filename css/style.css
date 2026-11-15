@@ -277,6 +277,17 @@ p, li, dd, dt { text-wrap: pretty; }
   .brand-word { font-size: 1.3rem; }
   .brand-mark { width: 28px; height: 35px; }
 }
+/* Below ~380px the logo, currency picker and menu button no longer fit side by side:
+   tighten the gaps and drop the globe icon (the "USD $" select still labels itself).
+   The "Hajj & Umrah" subline gets tighter tracking so it stays on one line. */
+@media (max-width: 380px) {
+  .header-inner { gap: .75rem; }
+  .brand-word small { letter-spacing: .2em; white-space: nowrap; }
+  .header-actions { gap: .4rem; }
+  .currency { padding-left: .55rem; }
+  .currency .i { display: none; }
+  .nav-toggle { width: 44px; height: 44px; }
+}
 @keyframes drop { from { opacity: 0; transform: translateY(-8px); } to { opacity: 1; transform: none; } }
 
 /* ==========================================================================
