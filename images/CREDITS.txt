@@ -1,0 +1,20 @@
+Photos: Unsplash (https://unsplash.com/license) — free to use, no attribution required.
+Source CDN IDs used on this page:
+
+- green-dome-madinah-lantern: https://images.unsplash.com/photo-1646424857576-2a66db82a65c
+- green-dome-minarets-madinah: https://images.unsplash.com/photo-1667454872134-c25973237138
+- hotel-bedroom: https://images.unsplash.com/photo-1611892440504-42a792e24d32
+- kaaba-archway-golden-hour: https://images.unsplash.com/photo-1713239060784-e6ed820a0715
+- kaaba-kiswah-gold-closeup: https://images.unsplash.com/photo-1564769625905-50e93615e769
+- kaaba-kiswah-night: https://images.unsplash.com/photo-1771170983433-1576bc4a7eec
+- kaaba-night-crowd: https://images.unsplash.com/photo-1716361897615-08458b7b3078
+- makkah-clock-tower-night: https://images.unsplash.com/photo-1778567090660-6becd8b28312
+- makkah-hotels-clock-tower: https://images.unsplash.com/photo-1580418827493-f2b22c0a76cb
+- masjid-al-haram-aerial-night: https://images.unsplash.com/photo-1542521148-51306e7ffc1e
+- masjid-al-haram-night: https://images.unsplash.com/photo-1780265861345-a787b955b505
+- masjid-an-nabawi-sunset: https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa
+- mosque-chandelier-ceiling: https://images.unsplash.com/photo-1761370766734-c6cf84b5c480
+- pilgrims-ihram-tawaf: https://images.unsplash.com/photo-1633546707050-88e2b545831c
+- pilgrims-white-robes-kaaba: https://images.unsplash.com/photo-1782798559017-7196f6aa26a3
+- quran-dates-prayer-beads: https://images.unsplash.com/photo-1587617425953-9075d28b8c46
+- Wide page-hero crops (1600x900, 800x450) are re-cropped from the same Unsplash photos listed above.

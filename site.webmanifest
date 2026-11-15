@@ -1,0 +1,13 @@
+{
+  "name": "Rihla Hajj & Umrah",
+  "short_name": "Rihla",
+  "description": "Scholar-led Umrah, Ramadan and Hajj 2027 packages from the UK, USA, Canada and Australia.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0A1220",
+  "theme_color": "#0A1220",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

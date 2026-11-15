@@ -1,0 +1,3 @@
+Cormorant Garamond (Christian Thalmann) and Manrope (Mikhail Sharanda) — SIL Open Font License 1.1.
+Self-hosted variable woff2 files, latin + latin-ext subsets, downloaded from Google Fonts.
+https://openfontlicense.org
